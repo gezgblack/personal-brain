@@ -1,1 +1,1 @@
-The brain is alive — see [[goals]].
+The brain is alive — see [[goals]]..
