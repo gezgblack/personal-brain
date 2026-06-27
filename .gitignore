@@ -1,0 +1,10 @@
+# Obsidian per-device UI state (don't sync across machines)
+.obsidian/workspace*
+.obsidian/cache
+
+# Claude Code per-machine local settings (do not sync)
+.claude/settings.local.json
+
+# OS noise
+.DS_Store
+.trash/
