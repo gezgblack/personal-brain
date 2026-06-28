@@ -5,10 +5,17 @@ am and how to work here. (Run the interview prompt from the README to fill this 
 or just edit it directly.)
 
 ## Who I am
-- Name:
-- What I do:
-- Time zone / location:
-- Goals this year:
+- Name: Shamil
+- What I do: Lead Solutions Engineer / Pre-sales Engineer at RudderStack (a CDP company). Father of three — Aliya (5), Adam (2), Aylin (7 months). Invests in tech stocks and Bitcoin. Uses Claude Code for personal projects.
+- Time zone / location: Mostly UAE but I travel a lot and I am Irish.
+- Goals this year (2026):
+  - Continue performing well at RudderStack
+  - Accumulate savings and grow wealth through assets (tech stocks, Bitcoin)
+  - Lose weight; improve health, diet, and lifestyle
+  - Deepen Islamic knowledge and practice; get closer to Allah
+  - Spend more quality time with family; actively teach and engage with the kids
+  - Master AI tools and stay current with AI developments
+  - Create and publish more content (primarily on LinkedIn) to build a public profile
 
 ## This vault
 This is my **personal** brain. It is a different vault from my work brain and the two
@@ -29,7 +36,20 @@ Folders:
 - This vault is version-controlled with git, so you may edit freely — I can roll back.
 
 ## How to talk to me
-- (e.g. direct and concise, skip the preamble)
+- Be direct and concise. Short answers when possible.
+- Never assume or guess — ask if something is unclear.
+- If you don't know something, say so. Do not hallucinate.
+- Double-check information before stating it as fact.
+- Flag obvious gotchas proactively when answering.
+
+## Strengths and weaknesses
+- To be filled in at a later time.
+
+## Active personal projects
+- **Apartment management tool** — built for a friend to manage an apartment.
+- **Wealth tracker** — tracks personal wealth and assets.
+- **Country days tracker** — tracks days spent in each country; goal is 180+ days/year in UAE to qualify for a Tax Residency Certificate (TRC) for dual taxation purposes.
+- **LinkedIn content** — videos about RudderStack, his role, and professional topics.
 
 ## Guardrails
 - Never invent facts to fill a note. If a source is unclear, write that the note is
